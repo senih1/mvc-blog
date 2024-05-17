@@ -1,0 +1,20 @@
+﻿<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <p>Zihin ve beden sağlığı, yaşam kalitemizi belirleyen önemli unsurlardır. İçsel dengeyi korumak, stresle başa çıkmak ve genel refahı artırmak için bazı önlemler almak gerekir. İşte size, zihin ve beden sağlığınızı korumanıza yardımcı olacak birkaç ipucu:</p>
+                <p>İlk olarak, düzenli egzersiz yapmaya özen gösterin. Egzersiz, zihinsel ve fiziksel sağlığınızı destekler ve stresi azaltmaya yardımcı olabilir. Haftada birkaç kez düzenli egzersiz yapmak, genel refahınızı artırabilir.</p>
+                <p>Bir diğer önemli adım ise, sağlıklı beslenme alışkanlıkları edinmektir. Dengeli bir diyet, vücudunuzun ihtiyaç duyduğu besinleri almasını sağlar ve enerji seviyenizi yüksek tutar. Taze meyve ve sebzeleri tercih ederek, vücudunuzun ihtiyacı olan besinleri alabilirsiniz.</p>
+                <p>Ayrıca, stres yönetimi tekniklerini öğrenmek de önemlidir. Meditasyon, derin nefes egzersizleri ve yoga gibi teknikler, stresi azaltabilir ve zihinsel dengeyi korumanıza yardımcı olabilir.</p>
+                <p>Son olarak, kendinize zaman ayırın ve hobilerinizle ilgilenin. Sevdiğiniz aktivitelere zaman ayırmak, ruh halinizi iyileştirebilir ve stresi azaltabilir. Kitap okumak, müzik dinlemek veya doğada zaman geçirmek gibi aktiviteler, zihninizi dinlendirebilir.</p>
+                <h2 class="section-heading">Zihin ve Beden Sağlığı: İçsel Dengenizi Nasıl Korursunuz?</h2>
+                <p>Zihin ve beden sağlığına özen göstermek, yaşam kalitenizi artırabilir ve genel refahınızı iyileştirebilir. İşte size, zihin ve beden sağlığınızı korumanıza yardımcı olacak bazı önemli adımlar:</p>
+                <p>Hayatınızda küçük değişiklikler yaparak, zihin ve beden sağlığınızı destekleyebilir ve içsel dengeyi koruyabilirsiniz. Kendinize iyi bakın ve sağlıklı bir yaşam sürdürmek için adım atın!</p>
+                <blockquote class="blockquote">"Zihin ve beden sağlığı, yaşamın temel taşlarıdır ve onlara iyi bakmak, mutlu ve dengeli bir yaşam sürmenin anahtarıdır." - Bilinmeyen</blockquote>
+                <p>Umarız bu ipuçları, zihin ve beden sağlığınızı korumanıza ve içsel dengeyi sağlamanıza yardımcı olur. Sağlıklı bir yaşam için bugün bir adım atın!</p>
+                <a href="#!"><img class="img-fluid" src="assets/img/post-sample-image.jpg" alt="..." /></a>
+                <span class="caption text-muted">Zihin ve beden sağlığınızı destekleyin ve yaşam kalitenizi artırın!</span>
+            </div>
+        </div>
+    </div>
+</article>

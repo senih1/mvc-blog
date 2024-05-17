@@ -1,0 +1,20 @@
+﻿<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <p>Yatırım dünyası, mali geleceğinizi güvence altına almanın ve servet oluşturmanın bir yoludur. Ancak, yatırım yapmaya yeni başlayanlar için bu dünya karmaşık ve kafa karıştırıcı olabilir. İşte size, yatırım dünyasına yeni başlayanlar için temel bilgiler:</p>
+                <p>1. **Farklı Yatırım Araçları**: Hisse senetleri, tahviller, emtialar ve gayrimenkul gibi farklı yatırım araçlarını öğrenin. Her bir yatırım aracının risk ve getiri profili farklıdır, bu nedenle portföyünüzü çeşitlendirmek önemlidir.</p>
+                <p>2. **Yatırım Stratejileri**: Uzun vadeli yatırım, kısa vadeli yatırım, değer yatırımı ve büyüme yatırımı gibi farklı yatırım stratejilerini öğrenin. Stratejinizi belirlerken risk toleransınızı ve finansal hedeflerinizi göz önünde bulundurun.</p>
+                <p>3. **Temel Finansal Kavramlar**: Temel finansal kavramları öğrenin, bunlar arasında risk, getiri, likidite, portföy çeşitlendirmesi ve piyasa hareketleri gibi konular yer alır. Bu kavramlar, yatırım kararlarınızı destekleyecek temel bilgiler sağlar.</p>
+                <p>4. **Risk Yönetimi**: Yatırım yaparken riskleri anlayın ve yönetin. Portföyünüzü çeşitlendirerek ve riskleri dağıtarak mali geleceğinizi koruyabilirsiniz.</p>
+                <h2 class="section-heading">Yatırım Dünyasına Yeni Başlayanlar İçin Temel Bilgiler</h2>
+                <p>Yatırım yapmaya yeni başlayanlar için, temel bilgileri öğrenmek ve finansal piyasaları anlamak önemlidir. Yatırım dünyasına giriş yaparken, aşağıdaki temel bilgiler size yol gösterebilir:</p>
+                <p>Yatırım yapmadan önce finansal hedeflerinizi belirleyin ve risk toleransınızı değerlendirin. Her yatırım kararı, finansal durumunuza ve hedeflerinize uygun olmalıdır.</p>
+                <blockquote class="blockquote">"Yatırım yapmak, mali geleceğinizi güçlendirmenin ve servet oluşturmanın bir yoludur. Temel bilgileri öğrenerek ve doğru stratejileri uygulayarak, başarılı bir yatırımcı olabilirsiniz." - Bilinmeyen</blockquote>
+                <p>Umarız bu temel bilgiler, yatırım dünyasına yeni başlayanlar için yol gösterici olur. Yatırım yapmaya başlamadan önce, kendi araştırmanızı yapın ve finansal danışmanınızdan destek alın!</p>
+                <a href="#!"><img class="img-fluid" src="assets/img/post-sample-image.jpg" alt="..." /></a>
+                <span class="caption text-muted">Yatırım dünyasına adım atarak mali geleceğinizi güvence altına alın!</span>
+            </div>
+        </div>
+    </div>
+</article>

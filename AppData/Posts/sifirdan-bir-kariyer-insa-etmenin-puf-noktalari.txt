@@ -1,0 +1,20 @@
+﻿<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <p>Sıfırdan bir kariyer inşa etmek, cesaret ve kararlılık gerektiren bir süreçtir. Ancak, doğru adımları takip ederek ve motivasyonunuzu koruyarak, başarıya ulaşmak mümkündür. İşte size, sıfırdan bir kariyer inşa etmenin püf noktaları hakkında birkaç ipucu:</p>
+                <p>İlk olarak, hedeflerinizi net bir şekilde belirleyin. Ne tür bir kariyer istediğinizi ve bu hedefe nasıl ulaşacağınızı belirlemek, yolculuğunuzun ilk adımıdır.</p>
+                <p>Bir diğer önemli adım ise, sürekli olarak kendinizi geliştirmektir. Eğitim, deneyim ve becerilerinizi artırmak için fırsatları takip edin ve kendinizi sürekli olarak yenileyin.</p>
+                <p>Ayrıca, sabırlı olmayı ve pes etmemeyi öğrenin. Kariyer yolculuğu bazen zorlu olabilir ve başarıya ulaşmak zaman alabilir. Ancak, kararlılıkla ilerlediğinizde, hedeflerinize ulaşmanız kaçınılmaz olacaktır.</p>
+                <p>Son olarak, çevrenizdeki destek sistemini kullanın. Ailenizden, arkadaşlarınızdan ve mentorlardan destek almak, sizi motive edebilir ve başarıya ulaşmanızı kolaylaştırabilir.</p>
+                <h2 class="section-heading">Sıfırdan Bir Kariyer İnşa Etmenin Püf Noktaları</h2>
+                <p>Sıfırdan bir kariyer inşa etmek, cesaret gerektiren ancak son derece tatmin edici bir süreçtir. İşte size, başarılı bir kariyer yolculuğu için püf noktaları:</p>
+                <p>Kendi kariyerinizi inşa etmek, size özgüven ve bağımsızlık kazandırabilir. Kendinize inanın ve başarıya giden yolda kararlı adımlarla ilerleyin!</p>
+                <blockquote class="blockquote">"Başarılı bir kariyer için sabır, kararlılık ve sürekli öğrenme önemlidir. Yolunuzda engellerle karşılaşsanız bile, pes etmeyin ve hedeflerinize odaklanın." - Bilinmeyen</blockquote>
+                <p>Umarız bu ipuçları, sıfırdan bir kariyer inşa etmenize ve hayallerinize ulaşmanıza yardımcı olur. Kararlılıkla ilerleyin ve başarıya giden yolculuğun tadını çıkarın!</p>
+                <a href="#!"><img class="img-fluid" src="assets/img/post-sample-image.jpg" alt="..." /></a>
+                <span class="caption text-muted">Hayalinizdeki kariyere adım atın ve başarıya giden yolculuğunuzu başlatın!</span>
+            </div>
+        </div>
+    </div>
+</article>

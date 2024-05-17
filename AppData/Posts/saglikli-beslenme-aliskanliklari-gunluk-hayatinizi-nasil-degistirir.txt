@@ -1,0 +1,20 @@
+﻿<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <p>Sağlıklı beslenme, vücudunuzun ihtiyaç duyduğu besinleri dengeli bir şekilde almanın ve sağlıklı bir yaşam tarzını sürdürmenin temelidir. Ancak, sağlıklı beslenme hakkında birçok yanlış bilgi bulunmaktadır. İşte size, sağlıklı beslenme için temel ipuçları:</p>
+                <p>1. **Dengeli Bir Diyet**: Sağlıklı bir diyet, protein, karbonhidrat, yağ, lif, vitaminler ve mineralleri dengeli bir şekilde içermelidir. Çeşitli besin gruplarından yeterli miktarda alarak sağlıklı bir diyet oluşturun.</p>
+                <p>2. **Taze ve Doğal Besinler**: İşlenmiş gıdalardan uzak durun ve mümkün olduğunca taze ve doğal besinleri tercih edin. Sebze, meyve, tam tahıllar, baklagiller, sağlıklı yağlar ve protein kaynakları gibi besinleri günlük diyetinizde yer verin.</p>
+                <p>3. **Yeterli Su İçin**: Günde en az 8 bardak su içmeye özen gösterin. Su, vücudunuzun düzgün çalışması için hayati öneme sahiptir ve metabolizmanızı destekler.</p>
+                <p>4. **Porsiyon Kontrolü**: Porsiyonları kontrol altında tutun ve aşırı yemekten kaçının. Sağlıklı bir beslenme düzeni, porsiyon kontrolü ve doğru besin seçimleriyle oluşturulur.</p>
+                <h2 class="section-heading">Sağlıklı Beslenme İçin Temel İpuçları</h2>
+                <p>Sağlıklı beslenme, vücudunuzun ihtiyaç duyduğu besinleri dengeli bir şekilde almanın ve sağlıklı bir yaşam tarzını sürdürmenin temelidir. İşte size, sağlıklı beslenme için temel ipuçları:</p>
+                <p>Beslenme alışkanlıklarınızı gözden geçirin ve sağlıklı bir diyeti benimseyerek vücudunuzu dengede tutun. Sağlıklı beslenme, vücudunuzun enerji seviyesini artırır, kilo kontrolünü sağlar ve hastalıklara karşı direncinizi artırır.</p>
+                <blockquote class="blockquote">"Sağlıklı beslenme, vücudunuzun ihtiyaç duyduğu besinleri dengeli bir şekilde almanın ve sağlıklı bir yaşam tarzını sürdürmenin temelidir. Sağlıklı beslenme alışkanlıkları, yaşam kalitenizi artırır ve uzun vadeli sağlık faydaları sağlar." - Bilinmeyen</blockquote>
+                <p>Umarız bu temel ipuçları, sağlıklı beslenme konusunda size rehberlik eder. Sağlıklı beslenme alışkanlıkları benimseyerek, vücudunuzun ihtiyaçlarını karşılayın ve sağlıklı bir yaşam tarzını sürdürün!</p>
+                <a href="#!"><img class="img-fluid" src="assets/img/post-sample-image.jpg" alt="..." /></a>
+                <span class="caption text-muted">Sağlıklı beslenme, sağlıklı bir yaşamın temelidir!</span>
+            </div>
+        </div>
+    </div>
+</article>

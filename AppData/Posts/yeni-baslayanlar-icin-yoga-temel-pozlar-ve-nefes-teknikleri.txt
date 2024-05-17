@@ -1,0 +1,20 @@
+﻿<article class="mb-4">
+    <div class="container px-4 px-lg-5">
+        <div class="row gx-4 gx-lg-5 justify-content-center">
+            <div class="col-md-10 col-lg-8 col-xl-7">
+                <p>Yoga, beden ve zihin sağlığını iyileştirmenin harika bir yoludur. Yeni başlayanlar için yoga, temel pozları ve nefes egzersizlerini öğrenmeye odaklanır. İşte size, yeni başlayanlar için temel yoga egzersizleri:</p>
+                <p>1. **Tadasana (Dağ Pozu)**: Ayaklarınızı birleştirin, kollarınızı yanlarda bırakın ve başınızı dik tutun. Nefes alırken kollarınızı başınızın üzerine kaldırın ve parmaklarınızı birleştirin. Dik durun ve rahatça nefes alın.</p>
+                <p>2. **Balasana (Çocuk Pozu)**: Dizlerinizin üzerine oturun, kalçanızı topuklarınıza indirin ve kollarınızı yere doğru uzatın. Alnınızı yere koyun ve derin bir nefes alın. Bu pozda rahatlayın.</p>
+                <p>3. **Bitilasana-Marjaryasana (Kedi-Köpek Pozu)**: Elleriniz ve dizleriniz üzerinde durun, sırtınızı düzleştirin ve başınızı hafifçe yukarı kaldırın (kedi pozisyonu). Nefes alırken, sırtınızı kemer gibi yukarı kaldırın ve başınızı aşağı doğru bakacak şekilde indirin (köpek pozisyonu).</p>
+                <p>4. **Savasana (Ölü Adam Pozu)**: Sırt üstü uzanın, bacaklarınızı ve kollarınızı yanlara doğru açın, gözlerinizi kapatın ve derin bir nefes alın. Bu pozda gevşeyin ve zihninizi sakinleştirin.</p>
+                <h2 class="section-heading">Yoga: Yeni Başlayanlar İçin Temel Egzersizler</h2>
+                <p>Yoga, beden ve zihin sağlığını iyileştirmenin harika bir yoludur ve yeni başlayanlar için mükemmel bir seçenektir. Temel pozlar ve nefes egzersizleriyle başlayarak, yoga pratiğinizi güçlendirebilir ve esnekliğinizi artırabilirsiniz.</p>
+                <p>Yoga pratiğinize başlarken, bedeninizi dinleyin ve sınırlarınızı zorlamadan hareket edin. Her pozda rahat bir şekilde nefes alın ve gevşemeye odaklanın. Yoga, sadece bedeni değil, aynı zamanda zihni de rahatlatır ve denge sağlar.</p>
+                <blockquote class="blockquote">"Yoga, bedeninizi ve zihninizi bir araya getirerek içsel huzur ve denge sağlar. Her yoga pratiği, bir keşif ve içsel yolculuktur." - Bilinmeyen</blockquote>
+                <p>Umarız bu temel yoga egzersizleri, yeni başlayanlar için mükemmel bir başlangıç olur. Yoga pratiğinizi düzenli tutun ve bedeninizin ve zihninizin farkındalığını artırın!</p>
+                <a href="#!"><img class="img-fluid" src="assets/img/post-sample-image.jpg" alt="..." /></a>
+                <span class="caption text-muted">Yoga pratiği ile bedeninizi ve zihninizi dengeleyin!</span>
+            </div>
+        </div>
+    </div>
+</article>
