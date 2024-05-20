@@ -28,7 +28,7 @@ namespace blog_mvc_1
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{slug?}");
 
             app.Run();
         }
